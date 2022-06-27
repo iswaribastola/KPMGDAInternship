@@ -25,12 +25,11 @@ This programme covers all of the key skills of a data analytics consultant:
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown](https://mybinder.org)
-* [Slide-Deck Title](link to slide deck)
+
 
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. The source data can be found [here](https://github.com/iswaribastola/KPMGDAInternship/blob/main/KPMG_VI_New_raw_data_update_final.xlsx)
-3. Data pre-processing/transformation scripts can be found [here](Repo_folder/notebooks)
 
 
 ## Author
