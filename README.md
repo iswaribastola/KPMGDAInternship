@@ -33,7 +33,7 @@ This programme covers all of the key skills of a data analytics consultant:
 
 
 ## Author
-* **Iswari Prosad Bastola** - *Initial work* - (https://github.com/iswaribastola)
+* **Iswari Prosad Bastola**  - (https://github.com/iswaribastola)
 
 ## License
 This project is licensed under the Apache License 2.0- see the [LICENSE](LICENSE) file for details.
